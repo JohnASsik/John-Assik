@@ -1,0 +1,5 @@
+{
+  "name": "Gamerz Hause",
+  "description": "An application for customers at the Nexus Gaming Zone to select a game and pay for a one-hour gaming session via a QR code.",
+  "requestFramePermissions": []
+}
